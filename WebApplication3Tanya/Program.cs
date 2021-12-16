@@ -8,7 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
    
 namespace WebApplication3Tanya
-{
+
 	public class Program
 	{
 		public static void Main(string[] args)
