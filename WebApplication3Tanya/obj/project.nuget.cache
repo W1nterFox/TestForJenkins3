@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7Z5OcT6MefUxBrf318I4z8L/zdaIsW6dgD8LjMnW9Bb+kM/s15BN4z7Mtw34HsSCrjoBU7PIROsyVexLX6wLvA==",
+  "dgSpecHash": "4Byxqa2FDg8R+eZYcXlfbO8kwggv0kq+y+IH4eleY/hd6g5+/0F+sqHpw/W4o1YhDtQ5IEIEdssylUlWh406Mg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alexey\\source\\repos\\WebApplication3Tanya\\WebApplication3Tanya\\WebApplication3Tanya.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
   "logs": []
 }
