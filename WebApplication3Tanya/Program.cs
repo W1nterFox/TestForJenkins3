@@ -27,6 +27,6 @@ namespace WebApplication3Tanya
 				.ConfigureWebHostDefaults(webBuilder =>
 				{
 					webBuilder.UseStartup<Startup>();
-				})  
+				});  
 	}
 }
